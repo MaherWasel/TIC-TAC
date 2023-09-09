@@ -1,0 +1,4 @@
+#Sat Sep 09 14:32:24 AST 2023
+base.0=/Users/maher/Desktop/flutter/projects/tic_tac/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
