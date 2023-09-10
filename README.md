@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-  Tic Tac is a simple program that allows users to play tic tac with their friends using their devices
+  Tic Tac is a simple program that allows users to play tic tac with their friends using mobile devices
 </td>
 </tr>
 </table>
